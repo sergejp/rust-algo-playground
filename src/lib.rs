@@ -1,0 +1,12 @@
+pub mod bubble_sort;
+pub mod count_inversions;
+pub mod graph;
+pub mod graph_min_cut;
+pub mod heap;
+pub mod huffman;
+pub mod insertion_sort;
+pub mod merge_sort;
+pub mod mwis;
+pub mod quick_sort;
+pub mod rec_mul;
+pub mod selection_sort;
